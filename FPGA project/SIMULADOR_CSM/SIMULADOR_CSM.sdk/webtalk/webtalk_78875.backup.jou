@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:47:09 MDT 2019
+# 
+# Start of session at: Mon Apr 15 18:19:59 2024
+# Process ID: 78875
+# Current directory: /home/rvinals/Proyectos/h2210/Firmware/H2210-CSR/PL3226/PL3226/PL3226.sdk/webtalk
+# Command line: wbtcv -mode batch -source sdk_webtalk.tcl
+# Log file: /home/rvinals/Proyectos/h2210/Firmware/H2210-CSR/PL3226/PL3226/PL3226.sdk/webtalk/webtalk.log
+# Journal file: /home/rvinals/Proyectos/h2210/Firmware/H2210-CSR/PL3226/PL3226/PL3226.sdk/webtalk/webtalk.jou
+#-----------------------------------------------------------
+source sdk_webtalk.tcl

@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:47:09 MDT 2019
+# 
+# Start of session at: Thu May 23 09:00:04 2024
+# Process ID: 1242588
+# Current directory: /mnt/sda1/home/mortega/Proyectos/H2108/Firmware/H2108-CSM/PL3232/PL3232/PL3232.sdk/webtalk
+# Command line: wbtcv -mode batch -source sdk_webtalk.tcl
+# Log file: /mnt/sda1/home/mortega/Proyectos/H2108/Firmware/H2108-CSM/PL3232/PL3232/PL3232.sdk/webtalk/webtalk.log
+# Journal file: /mnt/sda1/home/mortega/Proyectos/H2108/Firmware/H2108-CSM/PL3232/PL3232/PL3232.sdk/webtalk/webtalk.jou
+#-----------------------------------------------------------
+source sdk_webtalk.tcl

@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:47:09 MDT 2019
+# 
+# Start of session at: Fri Oct 21 12:20:19 2022
+# Process ID: 150173
+# Current directory: /home/rvinals/Proyectos/h2107/Firmware/H2107-LCA/PL3187/PL3187/PL3187.sdk/webtalk
+# Command line: wbtcv -mode batch -source sdk_webtalk.tcl
+# Log file: /home/rvinals/Proyectos/h2107/Firmware/H2107-LCA/PL3187/PL3187/PL3187.sdk/webtalk/webtalk.log
+# Journal file: /home/rvinals/Proyectos/h2107/Firmware/H2107-LCA/PL3187/PL3187/PL3187.sdk/webtalk/webtalk.jou
+#-----------------------------------------------------------
+source sdk_webtalk.tcl

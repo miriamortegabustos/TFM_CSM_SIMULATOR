@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>lcars_1.png</file>
+        <file>logo_hvs.png</file>
+        <file>logo2_hvs.png</file>
+        <file>sw_closed.png</file>
+        <file>sw_open.png</file>
+        <file>h2108-csm_splash.png</file>
+    </qresource>
+</RCC>
